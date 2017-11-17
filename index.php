@@ -31,7 +31,7 @@
 	<table border="1" class="table">
 		<tr>
 			<th>No</th>
-			<th>Nama</th>
+			<th>Nama lengkap</th>
 			<th>Alamat</th>
 			<th>Pekerjaan</th>
 			<th>Opsi</th>		
